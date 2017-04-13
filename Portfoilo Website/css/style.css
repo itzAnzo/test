@@ -56,3 +56,58 @@ padding-right: 10px;
   margin-top: 15px;
   margin-left: 25px;
 }
+
+a.current:link, a.current:visited {
+  color: #E3915A;
+}
+
+.portfolio {
+  background-color: #4982cc;
+  color: white;
+  height: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 250px;
+}
+
+.height {
+    width: 960px;
+    height: auto;
+    padding-left: 270px;
+    padding-top: 15px;
+}
+
+.height img {
+  width: 960px;
+  height: 500px;
+}
+
+.container {
+    width: 960px;
+    height: auto;
+    padding-left: 400px;
+    padding-top: 15px;
+}
+
+.container img {
+    width: auto;
+    height: 960px;
+}
+
+.about {
+  background-color: #4982cc;
+  color: white;
+  height: 590px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 250px;
+}
+
+.contact{
+  background-color: #4982cc;
+  color: white;
+  height: 590px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 250px;
+}
